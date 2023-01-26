@@ -1,0 +1,53 @@
+.form{
+    padding-top: 30px;
+   border-top: 35px solid rgb(234, 10, 212);
+   border-bottom: 35px solid rgb(234, 10, 212);
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+h2{
+background-color: rgb(13, 64, 229);
+color: white;
+padding: 5px;
+border-top: none;
+
+}
+.details{
+    margin-left: 110px;
+    margin-right: 110px;
+    height: 60vh;
+    border: 1px solid skyblue;
+    
+}
+label{
+    font-weight: bold;
+    font-size: 22px;
+}
+input{
+    background-color: rgb(210, 207, 205);
+    width: 220px;
+    height: 25px;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+.date{
+    margin-top: 15px;
+}
+.security{
+    margin-top: 20px;
+}
+button{
+    margin-top: 30px;
+    width: 110px;
+    height: 30px;
+    background-color: rgb(13, 64, 229);
+    color: white;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+}
+.date_a{
+   margin-left: 50px;
+}
